@@ -7,6 +7,9 @@ A portfolio-ready Data Science application that explores loan applications and p
 -The included data is synthetic and created for demonstration and learning. 
 -This app is not a real bank underwriting system and must not be used to make financial or lending decisions.
 
+## STREAMLIT LINK :
+                   https://loan-approval-prediction-ftag7xvmpnakntsmze83ap.streamlit.app/
+
 ## Features
 - Executive dashboard with KPI cards
 - Loan approval prediction from applicant inputs
